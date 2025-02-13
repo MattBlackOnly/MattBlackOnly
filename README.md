@@ -1,6 +1,6 @@
 # 🚀 Projects:
-📢 **TubeTube:** [https://github.com/MattBlackOnly/TubeTube](https://github.com/MattBlackOnly/TubeTube)
-📢 **SpotSpot:** [https://github.com/MattBlackOnly/SpotSpot](https://github.com/MattBlackOnly/SpotSpot)
+📢 **TubeTube:** [https://github.com/MattBlackOnly/TubeTube](https://github.com/MattBlackOnly/TubeTube)  
+🎯 **SpotSpot:** [https://github.com/MattBlackOnly/SpotSpot](https://github.com/MattBlackOnly/SpotSpot)
 
 # 💫 About Me:
 🔭 I’m currently working on Python Projects
